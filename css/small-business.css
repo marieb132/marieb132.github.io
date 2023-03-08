@@ -317,6 +317,13 @@ p.post-meta > a {
       background-repeat: no-repeat;
       
 
+  }
+     .responsive1 {
+        width: auto;
+        height: auto;
+        margin-top: 200px;
+  }
+
   
 }
 
