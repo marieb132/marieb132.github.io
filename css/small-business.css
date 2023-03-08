@@ -309,6 +309,15 @@ p.post-meta > a {
     display: block;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
+  }
+    .responsive {
+      width: auto;
+      height: auto;
+      background-size: 100% auto;
+      background-repeat: no-repeat;
+      
+
+  
 }
 
 footer {
