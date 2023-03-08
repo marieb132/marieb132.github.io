@@ -315,16 +315,19 @@ p.post-meta > a {
       height: auto;
       background-size: 100% auto;
       background-repeat: no-repeat;
-      
-
-  }
-     .responsive1 {
+    }
+      .responsive1 {
         width: auto;
         height: auto;
-        margin-top: 200px;
-  }
+        margin-top: 20px;
+        margin-bottom: 40px;
+      
 
+      }
+        .responsive2 {
+          margin-top: 100px;
   
+        
 }
 
 footer {
@@ -465,3 +468,5 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #0085a1;
 }
+
+
