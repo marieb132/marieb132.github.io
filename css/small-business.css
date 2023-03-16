@@ -7,7 +7,7 @@
 body {
   background: url("../img/pattern.jpg") center center;
   
-  font-family: Roboto, sans-serif
+  font-family: "Cubano-Regular";
   font-size: 20px;
   color: #404040;
 }
@@ -15,7 +15,8 @@ section{
   display: block;
 }
 @font-face {
-  font-family: Roboto, sans-serif
+  font-family: "Cubano-Regular";
+  src: url(./css/fonts/Cubano-regular.ttf) format("opentype");
   font-weight: normal;
   font-style: normal;
 }
