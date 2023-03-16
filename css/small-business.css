@@ -17,7 +17,7 @@ section{
 }
 @font-face {
   font-family: "Cubano-Regular";
-  src: url("../../marieb132.github.io/fonts/Cubano-regular.ttf") format('truetype');
+  src: url("../../marieb132.github.io/fonts/Cubano-regular.ttf") format('opentype');
   font-weight: normal;
   font-style: normal;
 }
