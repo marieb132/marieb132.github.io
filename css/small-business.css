@@ -8,7 +8,7 @@ body {
   background: url("../img/pattern.jpg") center center;
   
   font-family: "Cubano-Regular";
-   src: url(../css/fonts/Cubano-regular.ttf) format("opentype");
+  src: url("../../marieb132.github.io/fonts/Cubano-regular.ttf") format('truetype');
   font-size: 20px;
   color: #404040;
 }
@@ -17,7 +17,7 @@ section{
 }
 @font-face {
   font-family: "Cubano-Regular";
-  src: url(./css/fonts/Cubano-regular.ttf) format("opentype");
+  src: url("../../marieb132.github.io/fonts/Cubano-regular.ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
