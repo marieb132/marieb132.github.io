@@ -8,6 +8,7 @@ body {
   background: url("../img/pattern.jpg") center center;
   
   font-family: "Cubano-Regular";
+   src: url(../css/fonts/Cubano-regular.ttf) format("opentype");
   font-size: 20px;
   color: #404040;
 }
